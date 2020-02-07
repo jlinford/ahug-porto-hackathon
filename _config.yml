@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
-title: SC19 Arm SVE Hackathon
-description: Marco Polo Ballroom, Curtis Hotel | 9:00am - 1:00pm | Thursday, 21 November 2019
+title: AHUG Porto: Arm SVE Hackathon
+description: Auditorium A, INESC TEC | 9:00am - 4:00pm | 11 March 2020
 show_downloads: false
-google_analytics: UA-149556291-2
 github:
   is_project_page: false
