@@ -7,13 +7,19 @@ Arm’s Scalable Vector Extension (SVE) has arrived, but what does SVE mean for 
 
 Short presentations from community members, SVE tool developers, application teams, and hardware developers to introduce core concepts and lay the roadmap for future SVE applications.
 
-  Minutes | Materials | Presenter 
+  Time | Materials | Presenter 
   :-----: | :-------: | :-------: 
-   5 | TBD | Olly Perks
-  55 | TBD | Olly Perks
-  60 | TBD | Luiz De Rose
-  60 | TBD | Conrad Hillairet
-   5 | Training Cluster First-touch | Everyone!
+   9:00 | Welcome and Introductions | Olly Perks (Arm)
+   9:20 | SVE Deepdive | Olly Perks (Arm)
+  10:30 | Coffee Break | Everyone
+  11:00 | Cray / HPE Software Ecosystem for Arm | Luiz DeRose (HPE)
+  12:00 | Arm Software Exosystem | Conrad Hillairet (Arm)
+  12:15 | Hands on Access | Conrad Hillairet (Arm)
+  12:30 | Lunch Break | Everyone 
+  13:30 | Hands On | Everyone
+  15:00 | Coffee Break | Everyone
+  15:30 | Hands On | Everyone
+  17:00 | Wrap Up and Finish | Arm + HPE 
 
 ## 12:00pm – Hands-on with SVE
 
@@ -31,6 +37,7 @@ The entirely hands-on afternoon session will introduce the Arm's tools for SVE d
 # Contact
 
  * John Linford <john.linford@arm.com>
+ * Oliver Perks <olly.perks@arm.com>
 
 # Acknowledgements
 
