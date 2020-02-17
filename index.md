@@ -1,5 +1,11 @@
 Arm’s Scalable Vector Extension (SVE) has arrived, but what does SVE mean for typical high performance computing (HPC) workloads and how do you use it? This non-NDA event targets students and researchers developing HPC applications for emerging architectures.  We will present the fundamentals of vector length agnostic programming, introduce software tools for working with SVE, and show how common HPC codes can be recompiled to take advantage of large vector lengths without code modifications.  Remote access to Arm hardware will be provided.  
 
+# Details
+
+* When: 9am, Wednesday 11th March 2020
+* Where: Auditorium A, INESC TEC [Google Maps](https://goo.gl/maps/7DzBghHhr9k64W6f8)
+
+
 
 # Schedule
 
@@ -23,7 +29,7 @@ Short presentations from community members, SVE tool developers, application tea
 
 ## 12:00pm – Hands-on with SVE
 
-The entirely hands-on afternoon session will introduce the Arm's tools for SVE developers and show how to generate SVE-enabled binaries targeting popular vector lengths. The session will include contributions from people who are running and porting applications for SVE.
+The entirely hands-on afternoon session will introduce the Arm's tools for SVE developers and show how to generate SVE-enabled binaries targeting popular vector lengths. The session will include contributions from people who are running and porting applications for SVE. For this session we will be using an Arm based AWS Elastic Cluster, this will come pre-installed with all the required Arm HPC software stack for building code and emulating SVE. Accounts will be provided for all attendees.
 
  * Training Cluster: `ssh student@cluster.arm-hpc.org`
    * Password: `Tr@ining!`
