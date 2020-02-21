@@ -38,7 +38,7 @@ The entirely hands-on afternoon session will introduce the Arm's tools for SVE d
 
 # Registration
 
- * [Register now](https://www.weezevent.com/a-hug-sve-hackathon?lg_billetterie=2&id_evenement=594633) to guarantee your seat.
+ * This event is **free to attend**.  You can [register](https://www.weezevent.com/a-hug-sve-hackathon?lg_billetterie=2&id_evenement=594633) for the main A-HUG meeting to guarantee your seat, or simply show up and participate without registration.
 
 # Contact
 
