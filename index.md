@@ -19,7 +19,7 @@ Short presentations from community members, SVE tool developers, application tea
    9:20 | SVE Deepdive | Olly Perks (Arm)
   10:30 | Coffee Break | Everyone
   11:00 | Cray / HPE Software Ecosystem for Arm | Luiz DeRose (HPE)
-  12:00 | Arm Software Exosystem | Conrad Hillairet (Arm)
+  12:00 | Arm Software Ecosystem | Conrad Hillairet (Arm)
   12:15 | Hands on Access | Conrad Hillairet (Arm)
   12:30 | Lunch Break | Everyone 
   13:30 | Hands On | Everyone
